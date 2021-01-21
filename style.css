@@ -1,0 +1,16 @@
+@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
+@import url('https://fonts.maateen.me/adorsho-lipi/font.css');
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+
+.text{
+    font-family: 'SolaimanLipi', sans-serif;
+
+}
+.text3{
+    font-family: 'AdorshoLipi', sans-serif;
+}
+.text1{
+    font-family: 'CharukolaUltraLight', sans-serif;
+
+}
+
